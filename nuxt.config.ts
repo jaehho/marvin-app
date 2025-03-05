@@ -6,6 +6,6 @@ export default defineNuxtConfig({
     baseURL: '/test/',
   },
   experimental: {
-    payloadExtraction: true
+    payloadExtraction: false
   }
 })
